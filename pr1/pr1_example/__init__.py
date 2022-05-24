@@ -1,1 +1,1 @@
-from p1 import test
+from .p1 import test
